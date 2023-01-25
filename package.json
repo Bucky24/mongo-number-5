@@ -1,0 +1,19 @@
+{
+  "name": "mongo-number-5",
+  "version": "0.1.0",
+  "description": "A better mongoose, for a better world",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/doTest.js"
+  },
+  "keywords": [
+    "mongo",
+    "better"
+  ],
+  "author": "UCB Class",
+  "license": "ISC",
+  "files": [
+    "src",
+    "index.js"
+  ]
+}
